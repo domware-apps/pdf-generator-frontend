@@ -7,4 +7,4 @@ This API allows you to quickly generate a PDF document from HTML or from an URL.
 ### Quick start
 
 1. Go on https://rapidapi.com/domware.apps/api/pdf-generator3 and register a free subscription. You will receive the **X-RapidAPI-Key** that you will need to make API calls
-2. Go [here]() and have fun testing all the available options.
+2. Go [here](https://domware-apps.github.io/pdf-generator-frontend/) and have fun testing all the available options.
