@@ -108,10 +108,10 @@ const App = () => {
           </span>
         ) : (
           <div className="btns">
-            <button type="button" onClick={generatePdf}>
+            <button type="button" onClick={generatePdf} disabled={!key}>
               Generate Pdf
             </button>
-            <button type="button" onClick={downloadPdf}>
+            <button type="button" onClick={downloadPdf} disabled={!key}>
               Download Pdf
             </button>
             <label className="check">

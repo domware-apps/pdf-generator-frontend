@@ -69,6 +69,10 @@ button[type=button] {
   margin-left: .5rem;
 }
 
+button:disabled {
+  opacity: .6;
+}
+
 .check {
   border: 2px solid blue;
   padding: .5rem .75rem;
