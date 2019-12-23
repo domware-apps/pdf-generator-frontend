@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pdf-generator-frontend/static/css/main.7fd7d100.chunk.css",
+    "main.js": "/pdf-generator-frontend/static/js/main.cd543c86.chunk.js",
+    "main.js.map": "/pdf-generator-frontend/static/js/main.cd543c86.chunk.js.map",
+    "runtime-main.js": "/pdf-generator-frontend/static/js/runtime-main.fdac4c38.js",
+    "runtime-main.js.map": "/pdf-generator-frontend/static/js/runtime-main.fdac4c38.js.map",
+    "static/js/2.371f9f69.chunk.js": "/pdf-generator-frontend/static/js/2.371f9f69.chunk.js",
+    "static/js/2.371f9f69.chunk.js.map": "/pdf-generator-frontend/static/js/2.371f9f69.chunk.js.map",
+    "index.html": "/pdf-generator-frontend/index.html",
+    "precache-manifest.4cfb2abb45092b74f1a5586d71bf458e.js": "/pdf-generator-frontend/precache-manifest.4cfb2abb45092b74f1a5586d71bf458e.js",
+    "service-worker.js": "/pdf-generator-frontend/service-worker.js",
+    "static/css/main.7fd7d100.chunk.css.map": "/pdf-generator-frontend/static/css/main.7fd7d100.chunk.css.map",
+    "static/js/2.371f9f69.chunk.js.LICENSE": "/pdf-generator-frontend/static/js/2.371f9f69.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdac4c38.js",
+    "static/js/2.371f9f69.chunk.js",
+    "static/css/main.7fd7d100.chunk.css",
+    "static/js/main.cd543c86.chunk.js"
+  ]
+}
